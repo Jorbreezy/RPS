@@ -1,0 +1,14 @@
+button {
+    margin: 7px;
+    display: absolute;
+ }
+ 
+ .under{
+   width: 200px;
+ }
+ 
+ img{
+   width: 200px;
+   height: 150px;
+   border-radius: 25px;
+ }
